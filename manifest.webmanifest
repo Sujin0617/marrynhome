@@ -1,0 +1,26 @@
+{
+  "name": "우리의 결혼준비",
+  "short_name": "결혼준비",
+  "description": "수진과 재준의 결혼예산 및 준비과정 관리 앱",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fffdf0",
+  "theme_color": "#fff3a6",
+  "icons": [
+    {
+      "src": "./wedding-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./wedding-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
